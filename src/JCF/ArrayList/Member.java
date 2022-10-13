@@ -1,4 +1,4 @@
-package JCF;
+package JCF.ArrayList;
 
 public class Member {
     // Member 를 JCF 로 관리 해보자

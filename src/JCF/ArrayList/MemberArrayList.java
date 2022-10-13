@@ -1,4 +1,4 @@
-package JCF;
+package JCF.ArrayList;
 
 import java.util.ArrayList;
 
